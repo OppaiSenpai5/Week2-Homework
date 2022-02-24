@@ -1,0 +1,16 @@
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\bin\Debug\net5.0\Zad5.exe
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\bin\Debug\net5.0\Zad5.deps.json
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\bin\Debug\net5.0\Zad5.runtimeconfig.json
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\bin\Debug\net5.0\Zad5.runtimeconfig.dev.json
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\bin\Debug\net5.0\Zad5.dll
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\bin\Debug\net5.0\ref\Zad5.dll
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\bin\Debug\net5.0\Zad5.pdb
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\Zad5.csproj.AssemblyReference.cache
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\Zad5.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\Zad5.AssemblyInfoInputs.cache
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\Zad5.AssemblyInfo.cs
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\Zad5.csproj.CoreCompileInputs.cache
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\Zad5.dll
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\ref\Zad5.dll
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\Zad5.pdb
+D:\University\курс 2\Обектно-ориентирано програмиране\Упражнения\week 2\week 2\Zad5\obj\Debug\net5.0\Zad5.genruntimeconfig.cache

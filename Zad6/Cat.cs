@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zad6
 {
-    class Cat : Animal
+    public class Cat : Animal
     {
         public Cat(int age, string name, string gender)
             : base(age, name, gender)
